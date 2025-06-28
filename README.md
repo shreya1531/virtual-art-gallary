@@ -11,6 +11,12 @@ A responsive and interactive web application that showcases a curated collection
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the live demo](https://your-username.github.io/SecureDocs/)  
+
+---
+
 ## 🔐 Key Features
 
 - 🔍 **Search** artworks by title or artist  
