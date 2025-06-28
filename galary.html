@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Virtual Art Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>Virtual Art Gallery</h1>
+    <p>Explore a curated collection of unique digital artworks from talented artists around the world.</p>
+      <p>  Each piece tells a story—of imagination, emotion, and beauty.</p> Click any artwork to learn more.</p>
+  </header>
+
+  
+  <!-- Search -->
+  <div class="search-filter">
+    <input type="text" id="searchInput" placeholder="Search artworks..." oninput="filterArtworks()" />
+  </div>
+
+  <!-- Gallery -->
+  <div id="gallery" class="gallery"></div>
+
+  <!-- Popup -->
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <span class="close-btn" onclick="closePopup()">&times;</span>
+      <img id="popup-img" src="" alt="">
+      <h2 id="popup-title"></h2>
+      <h4 id="popup-artist"></h4>
+      <p id="popup-description"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
