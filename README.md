@@ -11,12 +11,6 @@ A responsive and interactive web application that showcases a curated collection
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [Click here to view the live demo]( https://shreya1531.github.io/virtual-art-gallary/)  
-
----
-
 ## 🔐 Key Features
 
 - 🔍 **Search** artworks by title or artist  
